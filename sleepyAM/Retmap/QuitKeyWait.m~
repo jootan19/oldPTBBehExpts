@@ -1,0 +1,11 @@
+while CharAvail
+    [temp, when] = GetChar;
+    if strcmpi(temp, quitkey)
+        save( [fNameStr '_AllVar.mat' ])
+        fprintf('\n\nExperiment terminated early \n\n')
+        
+        sca;
+        QuitSignal = 1;
+        break
+    end
+end

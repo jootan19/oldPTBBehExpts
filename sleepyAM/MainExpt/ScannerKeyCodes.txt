@@ -1,0 +1,17 @@
+
+% Current designs box
+Left1 = '1!'; % little finger
+Left2 = '2@'; % left ring;
+Left3 = '3#'; % left middle
+Left4 = '4$'; % left index
+Right1 = '6^'; % Right Little
+Right2 = '7&'; % ring
+Right3 = '8*'; % middle
+Right4 = '9('; % index
+
+
+% NNL Grips {from CNL}
+LThumb = 'a';
+LIndex = 'b';
+RThumb = 'd';
+RIndex = 'c';

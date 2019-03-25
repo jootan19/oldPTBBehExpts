@@ -1,0 +1,2 @@
+eyetracker_stop
+eyetracker_disconnect
